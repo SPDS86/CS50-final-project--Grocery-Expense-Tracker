@@ -37,12 +37,12 @@ This checks if any **csv** files of the same name are present in the home direct
 ## INSTALLATION
 ### **Download**
 #### **Clone the repository or download the zip file**
-
+```https://github.com/SPDS86/CS50-final-project--Grocery-Expense-Tracker.git```
 ### **Open Project Folder**
 #### **After the project is downloaded, navigate to the project folder directory.**
 
 #### **If the project is downloaded as a zip file unzip the file and open the project folder.**
-
+```unzip CS50-final-project--Grocery-Expense-Tracker-main.zip```
 #### **Install the necessary requirements using pip.**
 ```pip install -r requirements.txt```
 
