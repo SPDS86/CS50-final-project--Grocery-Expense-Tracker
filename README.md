@@ -240,7 +240,7 @@ These functions perform similarly to *save_items()* the only difference is *Tabu
 #### def convert_to_table(listed_items,types=None,mon=None):
 This function displays all the contents of the **csv** file as a rich table. It is only called used by the *view_file()* function.
 
-[!NOTE]
+>[!NOTE]
 Date format cannot by changed and is displayed as **dd/mm/YYYY**.
 
 [!TIP]
