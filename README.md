@@ -243,7 +243,7 @@ This function displays all the contents of the **csv** file as a rich table. It 
 >[!NOTE]
 Date format cannot by changed and is displayed as **dd/mm/YYYY**.
 
-[!TIP]
+>[!TIP]
 The program is intended to be used on the day a purchase is made as the date is hard coded each time an entry is created.
 
 ### Author: SPDS
